@@ -5,7 +5,7 @@
         @input="handleInput"
         :min="5"
         :max="400"
-        :slider-max="500"/>
+        :slider-max="800"/>
     <div>
       {{ inputValue }}
     </div>
